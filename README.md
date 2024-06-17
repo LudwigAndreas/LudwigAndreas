@@ -1,6 +1,6 @@
 # Evstratov Andrew
 
-Welcome to my GitHub profile! Here you'll find a collection of my pet projects. Feel free to explore the repositories listed below. P
+Welcome to my GitHub profile! Here you'll find a collection of my pet projects. Feel free to explore the repositories listed below.
 
 ## Project List
 
