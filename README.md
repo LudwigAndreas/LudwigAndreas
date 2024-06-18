@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my pet projects. 
 | [Tinkoff Backend Academy course](https://github.com/LudwigAndreas/Backend-Academy-2023) | Tasks and solutions for the Tinkoff Backend Academy course. | Java, Spring (Boot, Data, Security, Web, WebFlux), Maven, Gradle, Docker, PostgreSQL, MongoDB, Redis, Kafka, JUnit |
 | [Monitoring System](https://github.com/LudwigAndreas/MonitoringSystem) | Modular implementation of monitoring system application for linux and macos with support for dynamic connection of monitoring agents | Makefile, Cmake, C++, Qt |
 | [LogLite](https://github.com/LudwigAndreas/LogLite) | Proprietary logger implementation, analog to log4cxx with support for multi-threaded and customizable output | Makefile, Cmake, C++ |
-| [Java Bootcamp](https://github.com/LudwigAndreas/Java_Bootcamp)| Basics of the language, first introduction to the standard java development tools  |  Java Core, JDBC, JCommander, JCommander, Maven, Junit, Spring framework |
+| [Java Bootcamp](https://github.com/LudwigAndreas/Java_Bootcamp)| Basics of the language, first introduction to the standard java development tools  |  Java Core, JDBC, JCommander, Maven, Junit, Spring framework |
 | [Cyberpunk Shards Website](https://github.com/LudwigAndreas/CyberpunkShardsWebSite) | Java Web application written without using Spring | Java, JDBC, Lombok, Postgresql, Maven |
 | [Simple Docker](https://github.com/LudwigAndreas/SimpleDocker) | Introduction into DevOps. Practice with docker and nginx. | Docker, Nginx, C, FastCgi |
 | [Parrallel Programming Bootcamp](https://github.com/LudwigAndreas/OpenMPBootcamp)|  A educational project containing parallel computing tasks of varying complexity.  |  С++, MPI, OpenMP |
